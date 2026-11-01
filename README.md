@@ -12,6 +12,7 @@ Este repositório reúne os artefatos exigidos na avaliação da disciplina **Es
 | Diagrama de caso de uso | [diagrama-casos-de-uso.pdf](planejamento/diagrama-casos-de-uso.pdf) | Atores e casos por área: conta, comprador, vendedor e administrador, com tabela de rastreabilidade |
 | DER e Diagrama de classes | [der-e-diagrama-de-classes.pdf](planejamento/der-e-diagrama-de-classes.pdf) | 46 entidades e 44 classes, divididas em 5 módulos e geradas a partir do mesmo modelo |
 | Diagrama de atividades | [diagramas-de-atividades.pdf](planejamento/diagramas-de-atividades.pdf) | 6 fluxos do MVP em UML 2 com raias: compra, criar loja, operar pedido, conta, recuperar senha e disputa |
+| Prototipos de Alta Fidelidade |
 
 ## Pré-código
 
